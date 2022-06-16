@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: yellow;
+    font-family: Helvetica,'Times New Roman', Times, serif;
+    
+}
+
+ul {
+    font-size: 24px;
+    color: #000000;
+}
+
+.las {
+    text-align: left;
+    width: 300px;
+    background-color: #ff0000;
+}
+
+.waf{
+    text-align: center;
+    width: 300px;
+    background-color: #00ff00;
+}
+
+.bow {
+    text-align: right;
+    width: 300px;
+    background-color: #0000ff;
+}
