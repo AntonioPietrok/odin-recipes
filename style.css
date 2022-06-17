@@ -27,3 +27,8 @@ ul {
     width: 300px;
     background-color: #0000ff;
 }
+
+img {
+    height: auto;
+    width: 275px;
+}
